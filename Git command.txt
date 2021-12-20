@@ -1,0 +1,26 @@
+Git merge - it will merge the mupliple branch in single branch or Master branch
+
+1. which git
+2. git --version
+3. git init
+4. git status
+5. git add . / git add filename
+6. git commit -m "anymassage"
+7. git log / git log --oneline
+8. git show commitid
+9. git config --global user.name "username"
+10.git config --global user.email "useremailid"
+11. git remote add origin (Centeral repo URL)
+12. git push origin master (BranchName)
+13. git branch (Check the branch list)
+14. git branch branchname (to create a branch)
+14. git checkout branchname ( to change the branch)
+15. git branch -d branchname ( to Delete the banrch)
+16. git merge branchname ( to merge the multiple branch in master branch)
+
+
+
+
+
+
+
